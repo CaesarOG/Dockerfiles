@@ -1,2 +1,2 @@
 # Dockerfiles
-The directories contain the different environments' Dockerfiles 
+Directories contain the different environments' Dockerfiles

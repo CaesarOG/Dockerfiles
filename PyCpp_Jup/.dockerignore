@@ -1,0 +1,8 @@
+*.txt
+
+# line 11 Dockerfile echo $(which zsh) > ayo.txt to see zsh after install
+# line 22 Dockerfile tail -n40 .zshrc > wal to see conda init in .zshrc
+# line 26 Dockerfile source ~/.zshrc && conda info --envs > eg.txt to see base can also do as a script that I ran as RUN ./a.sh with #!/usr/bin/zsh
+# line 28 Dockerfile echo $PATH > E before mamba install jupyter to see anaconda3 in path
+# line 30 Dockerfile echo $PATH > e.txt before jupyter gen config to see anaconda3 in path
+# line 32 Dockerfile conda info --envs > y.txt to see should have cling seld
